@@ -15,7 +15,7 @@ const (
 	authorDir       = "author"
 	repoDir         = "repo"
 	defaultRepoName = "mmmm"
-	defaultRepoUrl  = "https://github.com/KiameV/moogle-mod-manager-mods"
+	defaultRepoUrl  = "https://github.com/firehawkx/moogle-mod-manager-mods"
 )
 
 var repoDefs []repoDef
